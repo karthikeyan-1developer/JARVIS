@@ -22,4 +22,6 @@ Logs
 Web/build (future-proofing)
 dist/
 build/
+
 node_modules/
+google-generativeai>=0.7.2
