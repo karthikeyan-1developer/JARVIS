@@ -1,4 +1,25 @@
 .env
-__pycache__/
+.env.*
+pycache/
 *.pyc
+*.pyo
+*.pyd
+*.egg-info/
 .venv/
+venv/
+ENV/
+env/
+
+OS/editor clutter
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+Logs
+*.log
+
+Web/build (future-proofing)
+dist/
+build/
+node_modules/
